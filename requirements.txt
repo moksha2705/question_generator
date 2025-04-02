@@ -1,0 +1,5 @@
+groq
+flask
+gunicorn
+flask_cors
+json
