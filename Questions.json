@@ -1,0 +1,119 @@
+{
+    "MCQ_Questions": [
+        {
+            "testname": "Technical Proficiency",
+            "questions": [
+                {
+                    "question": "What does AI stand for in the context of Computer Science?",
+                    "category": "Technical Proficiency",
+                    "options": [
+                        "Artificial Intelligence",
+                        "Advanced Imaging",
+                        "Automatic Interaction",
+                        "Augmented Insight"
+                    ],
+                    "correct_answer": "Artificial Intelligence"
+                },
+                {
+                    "question": "Which of the following is a supervised learning algorithm?",
+                    "category": "Technical Proficiency",
+                    "options": [
+                        "K-Means Clustering",
+                        "Decision Trees",
+                        "K-Nearest Neighbors",
+                        "All of the above"
+                    ],
+                    "correct_answer": "All of the above"
+                },
+                {
+                    "question": "What is the primary function of a Neural Network?",
+                    "category": "Technical Proficiency",
+                    "options": [
+                        "To analyze data",
+                        "To store data",
+                        "To learn patterns in data",
+                        "To display data"
+                    ],
+                    "correct_answer": "To learn patterns in data"
+                },
+                {
+                    "question": "Which of the following deep learning techniques is used for image classification?",
+                    "category": "Technical Proficiency",
+                    "options": [
+                        "Recurrent Neural Networks (RNNs)",
+                        "Convolutional Neural Networks (CNNs)",
+                        "Long Short-Term Memory (LSTM) Networks",
+                        "Autoencoders"
+                    ],
+                    "correct_answer": "Convolutional Neural Networks (CNNs)"
+                },
+                {
+                    "question": "What is Natural Language Processing (NLP)?",
+                    "category": "Technical Proficiency",
+                    "options": [
+                        "A technique used for image recognition",
+                        "A subset of AI that deals with human language",
+                        "A method for data analysis",
+                        "A type of machine learning algorithm"
+                    ],
+                    "correct_answer": "A subset of AI that deals with human language"
+                },
+                {
+                    "question": "Which of the following is an example of a reinforcement learning environment?",
+                    "category": "Technical Proficiency",
+                    "options": [
+                        "Game of Chess",
+                        "Image Classification",
+                        "Speech Recognition",
+                        "Sentiment Analysis"
+                    ],
+                    "correct_answer": "Game of Chess"
+                },
+                {
+                    "question": "What is the purpose of the activation function in a neural network?",
+                    "category": "Technical Proficiency",
+                    "options": [
+                        "To introduce non-linearity into the model",
+                        "To decrease the computational cost",
+                        "To increase the number of layers",
+                        "To simplify the optimization process"
+                    ],
+                    "correct_answer": "To introduce non-linearity into the model"
+                },
+                {
+                    "question": "Which of the following is a type of unsupervised learning algorithm?",
+                    "category": "Technical Proficiency",
+                    "options": [
+                        "Linear Regression",
+                        "Decision Trees",
+                        "K-Means Clustering",
+                        "Random Forests"
+                    ],
+                    "correct_answer": "K-Means Clustering"
+                },
+                {
+                    "question": "What is the term for the process of adjusting the model's parameters to minimize the loss function?",
+                    "category": "Technical Proficiency",
+                    "options": [
+                        "Training",
+                        "Testing",
+                        "Validation",
+                        "Optimization"
+                    ],
+                    "correct_answer": "Optimization"
+                },
+                {
+                    "question": "Which of the following is a benefit of using transfer learning?",
+                    "category": "Technical Proficiency",
+                    "options": [
+                        "Reduced computational cost",
+                        "Improved model interpretability",
+                        "Increased risk of overfitting",
+                        "Faster training times"
+                    ],
+                    "correct_answer": "Faster training times"
+                }
+            ]
+        }
+    ]
+}
